@@ -1,7 +1,8 @@
 # CS-AF
 Source code of: "CS-AF: A Cost-sensitive Multi-classifier Active Fusion Framework for Skin Lesion Classification"
 
-1. To train the base classifier, just use train.py. The split of train/validation/test are in "data/txt_file"
+1. To train the base classifier, just use train.py. 
+   The split of train/validation/test are in "data/txt_file".
    The raw image data can be download via the homepage of ISIC 2019:
    https://challenge2019.isic-archive.com/data.html
 
