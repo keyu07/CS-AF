@@ -7,5 +7,5 @@ Source code of: "CS-AF: A Cost-sensitive Multi-classifier Active Fusion Framewor
    https://challenge2019.isic-archive.com/data.html
 
 2. For ensemble. The 4 ensemble functions (max-voting, average, cs-af and af) are in "ensemble/ensemble_demo.py". 
-   Instead of the saved model, we provide the 10 soft label of our "full" model, and true label on testing dataset in "ensemble/SF" to give a more convenient way to implement.
+   Instead of the saved model, we provide the 10 soft label of our "full" model and corresponding true label on testing dataset in "ensemble/SF", to give a more convenient way to implement.
    
