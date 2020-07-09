@@ -9,6 +9,6 @@ Source code of: "CS-AF: A Cost-sensitive Multi-classifier Active Fusion Framewor
 2. Cost Matrix:
    The 2 demo cost matrices used in our paper are in [].
    
-2. The function of the 4 fusion methods (max-voting, average, cs-af and af) are in "ensemble/ensemble_demo.py". 
+3. The function of the 4 fusion methods (max-voting, average, cs-af and af), sensitivity and specificity are in "ensemble/ensemble_demo.py". 
    Instead of the saved model, we provided the soft labels of our 12 model predictions with 4 distributions, and the corresponding true labels on testing dataset in "ensemble/SF", to provide a more convenient way to reproduce.
    
