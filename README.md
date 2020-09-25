@@ -1,4 +1,4 @@
-# CS-AF
+# CS-AF: A Cost-sensitive Multi-classifier Active Fusion Framework for Skin Lesion Classification
 Source code of: "CS-AF: A Cost-sensitive Multi-classifier Active Fusion Framework for Skin Lesion Classification"
 
 1. To train the base classifier, just use train.py. 
