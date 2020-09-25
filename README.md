@@ -42,5 +42,5 @@ Source code of: "CS-AF: A Cost-sensitive Multi-classifier Active Fusion Framewor
    
    To produce the curve of accuracy and total cost, just download everything and run "/ensemble/fusion_demo.py". 
    
-   The number of repetitions can be modified at the line 125 of "fusion_demo.py".
+   The number of random repetitions can be modified at the line 125 of "fusion_demo.py".
    
