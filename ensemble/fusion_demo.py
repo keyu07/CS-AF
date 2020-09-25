@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import random
-from random_util import multi_class_F1score, minmax, sens_spec, total_cost
+from util import multi_class_F1score, minmax, sens_spec, total_cost
 from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
 from sklearn.metrics import accuracy_score
