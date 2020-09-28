@@ -25,16 +25,12 @@ Source code of: "CS-AF: A Cost-sensitive Multi-classifier Active Fusion Framewor
    Example command in the terminal:
    
       python train.py --gpu 0 --network inceptionv3 --epochs 50 --train_batchsz 32 --num_class 8 --lr 1e-3
-      
-      
-# 2. Cost Matrix:
-
-   The 2 demo cost matrices used in our paper are in "ensemble/cost_matrix".
    
-   
-# 3. Quick demo for CS-AF:
+# 2. Quick demo for CS-AF:
 
    We provide the demo code to run our CS-AF on 48 (12 x 4) models and plot the curves of accuracy and total cost.
+
+   The 2 demo cost matrices used in our paper are in "ensemble/cost_matrix".
    
    The function of the 4 fusion methods (max-voting, average, cs-af and af) are in "ensemble/ensemble_demo.py". 
    
